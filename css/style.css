@@ -1,0 +1,62 @@
+body {
+    font-family:'Century Gothic'; 
+    color:white;
+}
+#genel
+{
+     width:960px; 
+     margin:0 auto; 
+     padding:10px;
+     background-color:aqua;
+}
+#header {
+    width:940px;
+    background-color:azure;
+    height:100px;
+    padding:10px;
+}
+#banner {
+    padding:20px 0 0 20px;
+    height:80px;
+    width:350px;
+    background-color:brown;   
+}
+#menu {
+    height:40px;
+    width:930px;
+    background-color:brown;
+    margin:10px 0;
+    padding:10px 0 0 30px;
+}
+#orta {
+     width:940px; 
+     height:430px;
+     margin:0 auto; 
+     padding:10px;
+     background-color:azure;
+}
+#ortasol {
+    height:430px;
+    width:330px;
+    background-color:brown;   
+    float:left;
+    padding-left:20px;
+}
+#ortasag {
+    height:430px;
+    width:560px;
+    background-color:brown;   
+    float:left;
+    margin:0 0 0 10px;
+    padding-left:20px;
+}
+#temizle {
+    clear:both;
+}
+#alt {
+    height:50px;
+    width:960px;
+    background-color:brown;
+    margin:10px 0;
+    text-align:center;
+}
